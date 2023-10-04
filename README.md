@@ -22,6 +22,8 @@ npm install
 
 yarn start
 
+file changes by other developer
+
 OR
 
 npm start
